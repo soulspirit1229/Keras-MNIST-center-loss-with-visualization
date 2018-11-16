@@ -1,5 +1,9 @@
 # Keras-MNIST-center-loss-with-visualization
 
+代码解读
+[Code explanation in center loss github « shamangary's Blog](http://shamangary.logdown.com/posts/6424093)
+
+
 
 <img src="https://github.com/shamangary/Keras-MNIST-center-loss-with-visualization/blob/master/images/softmax_only/epoch%3D49.jpg" height="300"/> <img src="https://github.com/shamangary/Keras-MNIST-center-loss-with-visualization/blob/master/images/centerloss/epoch%3D49.jpg" height="300"/>
 
